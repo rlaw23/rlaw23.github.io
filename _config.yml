@@ -4,5 +4,5 @@ theme: just-the-docs
 
 url: https://rlaw23.github.io
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
