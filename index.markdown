@@ -9,3 +9,14 @@ This is my online portfolio. Here I demonstrates my knowledge in the finance ind
 This site is hosted on Github Pages based on the Just the Docs theme.
 
 Here is my [Linkedin](https://hk.linkedin.com/in/rowan-l-67908654?trk=public_profile_browsemap_profile-result-card_result-card_full-click).
+
+
+[Machine Learning](/machine_learning/)
+
+[Excel VBA Automation](/excel_vba_automation/)
+
+[Algo Trading](/algo_trading/)
+
+[Prompt Engineering](/prompt_engineering/)
+
+[Miscellaneous](/miscellaneous)

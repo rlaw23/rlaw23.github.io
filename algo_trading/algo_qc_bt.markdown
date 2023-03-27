@@ -1,7 +1,7 @@
 ---
 layout: page
 title: QuantConnect vs Backtrader
-parent: Miscellaneous
+parent: Algo Trading
 nav_order: 2
 ---
 
