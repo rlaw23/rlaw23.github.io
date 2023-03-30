@@ -2,7 +2,7 @@
 layout: page
 title: Excel VBA Automation
 permalink: /excel_vba_automation/
-nav_order: 2
+nav_order: 4
 has_children: true
 ---
 
