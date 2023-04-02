@@ -2,7 +2,7 @@
 layout: page
 title: Prompt Engineering
 permalink: /prompt_engineering/
-nav_order: 8
+nav_order: 25
 has_children: true
 ---
 

@@ -11,6 +11,8 @@ This site is hosted on Github Pages based on the Just the Docs theme.
 Here is my [Linkedin](https://hk.linkedin.com/in/rowan-l-67908654?trk=public_profile_browsemap_profile-result-card_result-card_full-click).
 
 
+[Finance Documentaton](/finance_documentation/)
+
 [Machine Learning](/machine_learning/)
 
 [Excel VBA Automation](/excel_vba_automation/)

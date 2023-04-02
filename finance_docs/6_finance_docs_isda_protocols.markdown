@@ -1,7 +1,7 @@
 ---
 layout: page
 title: ISDA Protocols
-parent: Financial Industry
+parent: Finance Documentation
 nav_order: 6
 ---
 

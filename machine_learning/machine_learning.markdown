@@ -2,7 +2,7 @@
 layout: page
 title: Machine Learning
 permalink: /machine_learning/
-nav_order: 2
+nav_order: 10
 has_children: true
 ---
 
