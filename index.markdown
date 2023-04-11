@@ -4,11 +4,18 @@
 
 layout: home
 ---
-This is my online portfolio. Here I demonstrates my knowledge in the finance industry, coding capabilities and project experiences.
+# Welcome
+
+This website serves as my online portfolio and also as my personal site. 
+
+You will find the description of my work experience and expertise on [my portfolio page](/my_portfolio/).
+
+I also write on the financial industry, automation and computers. I hope to share my knowledge with the web and also demonstrate my understanding of the financial sector and also my coding capabilities and project experiences.
 
 This site is hosted on Github Pages based on the Just the Docs theme.
 
 Here is my [Linkedin](https://hk.linkedin.com/in/rowan-l-67908654?trk=public_profile_browsemap_profile-result-card_result-card_full-click).
+
 
 
 [Finance Documentaton](/finance_documentation/)

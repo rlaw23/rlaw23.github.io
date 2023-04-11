@@ -33,7 +33,7 @@ Crucial sections:
 
 <br />
 
-### CSA is for VM
+### VM CSA
 
 I usually find paragraph 11 to be the meat. You can find these in the CSA:
 - What collateral are accepted (eligible credit support (vm)) and haircut (valuation percentage) 

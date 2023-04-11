@@ -16,32 +16,6 @@ nav_order: 3
 
 <br />
 
-## My Experience
-
-I have supported structured product and derivative desks in middle office and as a business manager in the front office.
-
-Derivatives:
-- swaps (CCS, IRS, TRS, basis swaps)
-- FX (spot, forward, swap, deliverable, NDF)
-- OTC options
-- bond forward
-- CDS
-- listed futures and options
-- repo
-
-Structured products:
-- leveraged notes
-- bond/equity/fund-linked notes
-- accumulators
-- FCN (fixed coupon notes)
-- floating / fixed rate notes
-- instruments with knock-outs
-- ELI (euqity linked instrument)
-- digital options
-- etc
-
-
-<br />
 
 ## ISDA OTC Derivatives Taxonomy
 

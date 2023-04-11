@@ -5,7 +5,14 @@ parent: Financial Products and Practices
 nav_order: 10
 ---
 
-## CDS
+# CDS
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
 
 <br />
 
@@ -49,7 +56,7 @@ The industry usually use 2003 and 2014 ISDA Credit Derivatives Definitions:
 
 <br />
 
-### 2014 definitions:
+### 2014 Definitions
 
 | Doc Clause   | Restructuring Type         |
 |:-------------|:---------------------------|
@@ -62,7 +69,7 @@ The industry usually use 2003 and 2014 ISDA Credit Derivatives Definitions:
 <br />
 
 
-### Context for pre-2014 definitions:
+### Context for Pre-2014 Definitions
 
 The 2014 Definitions introduced the Standard Reference Obligation, the Governmental Intervention Credit Event, the Asset Package Delivery provisions and the Financial Reference Entity Terms, and the replacement of the Succession Event with the Steps Plan.
 
