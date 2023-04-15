@@ -1,0 +1,83 @@
+---
+layout: page
+title: FX
+parent: Financial Products and Practices
+nav_order: 15
+---
+
+# FX
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<br />
+
+## Introduction
+
+Finanical institutions invest in various markets and will need different currencies to fund their purchases. This is the main driver of FX trades.
+
+While most of the FX trades are deliverable, there are also non-deliverable FX trades. 
+
+
+<br />
+
+
+## Deliverable FX
+
+Terms of a deliverable FX are simple and only include the settlement date, notionals of the two currencies and the direction. For example, Party A buys USD 1m / sells EUR 901k to Party B VD 17Apr2023.
+
+FX trades that settle within a couple days after execution are called FX spots. Those that settle after some time, like a week or several months, are called FX forwards.
+
+Sometimes counterparties trade an FX spot and an FX forward together, and that would be called an FX swap.
+
+
+<br />
+
+## Non-Deliverable FX Forwards
+
+Non-Deliverable FX Forwards (NDF) typically involve a convertible currency leg and a non-convertible currency leg, such as IDR, INR, VND, etc. Many non-convertible currencies are covered in the EMTA template. 
+
+When trading an NDF, counterparties settle only in one currency. This means that they only settle the PnL resulting from fluctuations in the FX rate. For example, in a USD/INR NDF trade, settlement occurs only in USD, and no INR is exchanged. INR is the "reference currency", while USD is the "settlement currency".
+
+
+To extend this example:
+
+- On trade date 17Mar2023, executed open trade: Party A buys USD 1m / sells VND 23,600m to Party B VD 17Apr2023
+
+On "valuation date", usually 2 business days before settlement date, i.e. 15Apr2023, counterparties will capture and agree on the USD/VND fixing (i.e. prevailing spot rate) and book an opposite closing trade.
+
+- On valuation date 15Apr2023, let's say fixing is USD 1 = VND 23,447 (captured from BBG or Reuters)
+
+- On valuation date 15Apr203, book an opposite close trade: Party A sells USD 1,006,525 / buys VND 23,600m from Party B VD 17Apr2023
+
+So when the trade is fixed on valuation date, the VND actually rose in value comparing to when the trade was opened. Party A thus lose money on this trade and need to pay USD 6,525 to Party B. As the open and close trades are netted, the notionals of USD 1m and the whole VND do not change hands.
+
+
+<br />
+
+
+## Trading
+
+FX can be traded on BBG, FX Connect or through emails.
+
+
+<br />
+
+
+## Confirmation
+
+TradeNexus (previously called GTSS) is a popular FX matching platform. FX trades can also be confirmed via paper or DocuSign.
+
+For NDF FX, unless Master Confirmation Agreement (MCA) for NDF FX is signed, confirmations for these trades are not on GTSS but will remain on paper or DocuSign.
+
+
+<br />
+
+
+## NDF Fixing Rate Options
+
+When trading NDF, counterparties have to confirm which currency option to use at fixing. You can refer to this link https://www.isda.org/a/e6uTE/Annex-A-Amended-031620.pdf

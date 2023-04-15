@@ -61,7 +61,7 @@ There are different ways to do this normalization, i.e. there are many different
 
 <br />
 
-## Adjusted and Unadjusted Period End Dates
+## Period End Date Adjustment
 
 If a calculation period end date falls on a holiday, it can be adjusted accordingly or not. This is agreed per leg at trade.
 
