@@ -2,6 +2,7 @@
 layout: page
 title: NLP Disaster Tweets with Hugging Face
 parent: Machine Learning
+grand_parent: Machine Learning and AI
 nav_order: 4
 ---
 

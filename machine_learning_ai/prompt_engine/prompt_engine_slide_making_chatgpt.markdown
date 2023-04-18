@@ -2,6 +2,7 @@
 layout: page
 title: Slide Making with ChatGPT
 parent: Prompt Engineering
+grand_parent: Machine Learning and AI
 nav_order: 2
 ---
 

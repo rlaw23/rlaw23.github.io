@@ -1,9 +1,10 @@
 ---
 layout: page
 title: Prompt Engineering
-permalink: /prompt_engineering/
+permalink: /machine_learning_ai/prompt_engineering/
 nav_order: 25
 has_children: true
+parent: Machine Learning and AI
 ---
 
 # Prompt Engineering

@@ -1,0 +1,56 @@
+---
+layout: page
+title: HKTR
+parent: Financial Products and Practices
+nav_order: 1005
+---
+
+# HKTR
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<br />
+
+## Introduction
+
+The HKTR (Hong Kong Trade Repository) is a centralised registry. Basically financial institutions need to report their OTC derivatives transactions to HKTR daily.
+
+Many jurisdictions have similar regulatory reporting requirements on derivatives after the 2008 financial crisis.
+
+
+
+
+## What to Report
+
+If a financial institution is in-scope, then it needs to report:
+
+1. its new in-scope transactions daily, by asset classes (i.e. interest rates, foreign exchange, equities, credit and commodities)
+
+2. the daily valuations of each of its reported transactions, also by asset classes
+
+
+
+## Reporting Timeframe
+
+Financial institutions need to report its new trades and valuations in 2 days.
+
+
+
+## Backloading
+
+
+
+
+## "Trade In" and "Book In"
+
+
+## Reporting Platforms
+
+
+
+## Who to Report
