@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Financial Systems
-permalink: /financial_systems/
+parent: Finance
 nav_order: 5
 has_children: true
 ---

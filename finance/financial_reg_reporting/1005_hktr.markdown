@@ -1,0 +1,75 @@
+---
+layout: page
+title: HKTR
+grand_parent: Finance
+parent: Financial Regulatory Reporting
+nav_order: 1005
+---
+
+# HKTR
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<br />
+
+## Introduction
+
+The HKTR (Hong Kong Trade Repository) is a centralised registry. Basically financial institutions need to report their OTC derivatives transactions to HKTR daily.
+
+Many jurisdictions have similar regulatory reporting requirements on derivatives after the 2008 financial crisis.
+
+
+
+
+## What to Report
+
+If a financial institution is in-scope, then it needs to report:
+
+1. its new in-scope transactions daily, by asset classes (i.e. interest rates, foreign exchange, equities, credit and commodities)
+
+2. the daily valuations of each of its reported transactions, also by asset classes
+
+
+
+## Reporting Timeframe
+
+Financial institutions need to report its new trades and valuations in 2 days.
+
+
+
+## Backloading
+
+If a new trade is not uploaded within the T+2 timeframe, then the trade would need to be "backloaded" instead, otherwise the upload will fail. 
+
+In the trade upload file, there is a field that states this upload is a new trade, an amendment, or an backload. 
+
+
+## "Trade In" and "Book In"
+
+"Trade In": means the trade is executed by an execution agent (traders) in the jurisdiction, i.e. execution agent located in HK.
+
+"Book In": means the trade is booked to a trading party in Hong Kong, i.e. the fund is domiciled in HK.
+
+Trades traded by an HKTR in-scope entity or booked to an HKTR in-scope entity are consequently in-scope of HKTR reporting.
+
+
+## Reporting Platforms
+
+Although institutions can report their trades through the HKTR platform, they can also utilize platforms like DTCC, Bloomberg or S&P to report their trades.
+
+
+## Reporting Party
+
+In most cases (not just HKTR), trade repository reporting is handled by the investment manager on behalf of the fund itself.
+
+
+## In-scope Products
+
+Only OTC derivatives need to be reported to the HKTR, common products are swaps, FX forwards, bond forwards, OTC options, CDS, etc are in scope.
+
+Listed futures and repos are not in scope.

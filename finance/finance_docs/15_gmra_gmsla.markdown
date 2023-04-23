@@ -1,7 +1,8 @@
 ---
 layout: page
 title: GMRA and GMSLA
-parent: Financial Industry
+grand_parent: Finance
+parent: Documentation
 nav_order: 15
 ---
 

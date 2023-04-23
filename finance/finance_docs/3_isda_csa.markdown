@@ -1,7 +1,8 @@
 ---
 layout: page
 title: ISDA Master Agreement and CSA
-parent: Finance Documentation
+grand_parent: Finance
+parent: Documentation
 nav_order: 3
 ---
 

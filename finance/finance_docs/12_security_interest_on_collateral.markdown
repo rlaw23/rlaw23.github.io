@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Security Interest on Collateral
-parent: Financial Industry
+grand_parent: Finance
+parent: Documentation
 nav_order: 12
 ---
 

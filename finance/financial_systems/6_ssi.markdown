@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SSI
+grand_parent: Finance
 parent: Financial Systems
 nav_order: 6
 ---

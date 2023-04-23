@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Uncleared Margin
-parent: Finance Documentation
+grand_parent: Finance
+parent: Documentation
 nav_order: 6
 ---
 

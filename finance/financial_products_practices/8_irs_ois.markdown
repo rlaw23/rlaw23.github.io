@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Interest Rate Swaps
-parent: Financial Products and Practices
+grand_parent: Finance
+parent: Products and Practices
 nav_order: 8
 ---
 

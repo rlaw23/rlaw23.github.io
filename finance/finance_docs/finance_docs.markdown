@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Finance Documentation
-permalink: /finance_documentation/
+title: Documentation
 nav_order: 2
 has_children: true
+parent: Finance
 ---
 
 # Finance Documentation

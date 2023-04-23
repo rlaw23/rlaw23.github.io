@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Financial Products and Practices
-permalink: /financial_products_practices/
+title: Products and Practices
 nav_order: 8
+parent: Finance
 has_children: true
 ---
 

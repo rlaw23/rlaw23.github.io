@@ -1,6 +1,7 @@
 ---
 layout: page
 title: SWIFT
+grand_parent: Finance
 parent: Financial Systems
 nav_order: 9
 ---
