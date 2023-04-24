@@ -6,16 +6,40 @@ parent: Documentation
 nav_order: 6
 ---
 
-## Uncleared Margin
+# Uncleared Margin
+{: .no_toc }
 
-<br />
+## Table of contents
+{: .no_toc .text-delta }
 
-Some firms Euroclear triparty. It seems that Euroclear have 2 documents: 
+1. TOC
+{:toc}
+
+
+## Euroclear IM Documents
+
+Some firms use Euroclear triparty. It seems that Euroclear have 2 documents: 
 - Euroclear Collateral Transfer Agreement (2019)
 - Euroclear Security Agreement (2019 / 2022)
 
 
-### IM Documents - Custodian Agnostic
+<br />
+
+
+## Clearstream IM Documents
+
+
+ISDA Clearstream Collateral Transfer Agreement (2019)
+
+And either of:
+- ISDA 2019 Clearstream Security Agreement (Luxembourg Law) Security-provider name 
+- ISDA 2019 Clearstream Security Agreement (Luxembourg Law) Security-taker name
+
+
+<br />
+
+
+## IM Documents - Custodian Agnostic
 
 
 2018 Credit Support Annex For Initial Margin (IM) (Security Interest – New York Law)
@@ -30,20 +54,3 @@ ISDA 2019 Bank Custodian Collateral Transfer Agreement for Initial Margin
 	- ISDA 2019 Irish Law Security Agreement for Initial Margin (IM)
 	- ISDA 2019 Belgian Law Security Agreement for Initial Margin (IM)
 
-
-
-### Clearstream IM Documents
-
-
-ISDA Clearstream Collateral Transfer Agreement (2019)
-
-And either of:
-- ISDA 2019 Clearstream Security Agreement (Luxembourg Law) Security-provider name 
-- ISDA 2019 Clearstream Security Agreement (Luxembourg Law) Security-taker name
-
-
-
-### Euroclear IM Documents
-
-
-2019 Euroclear Collateral Transfer Agreement and Security Agreement

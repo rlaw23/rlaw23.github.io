@@ -6,7 +6,7 @@ parent: Documentation
 nav_order: 6
 ---
 
-## ISDA Protocols
+# ISDA Protocols
 
 <br />
 
