@@ -27,7 +27,7 @@ The Monetary Authority of Singapore also has its own OTC derivatives reporting. 
 
 If a financial institution is in-scope, then it needs to report:
 
-1. its new in-scope transactions daily, by asset classes
+1. its new in-scope transactions daily, by asset classes (i.e. interest rates, foreign exchange, equities, credit and commodities - in line with the ISDA product taxonomy)
 
 2. the daily valuations of each of its reported transactions, also by asset classes
 
