@@ -1,0 +1,65 @@
+---
+layout: page
+title: LOPR and Position Limits
+grand_parent: Finance
+parent: Financial Regulatory Reporting
+nav_order: 1001
+---
+
+# LOPR and Position Limits
+{: .no_toc }
+
+## Table of contents
+{: .no_toc .text-delta }
+
+1. TOC
+{:toc}
+
+<br />
+
+## Introduction
+
+
+### LOPR (Large Open Position Reports)
+
+In Hong Kong, the SFC requires that if a person (legal entity) holds or controls a listed futures or listed options position beyond a certain limit (i.e. a reportable positon), they need to report the position to the HKEx.
+
+Each future and option product has their own LOPR level. E.g. Reporting level for HSI Futures is 500 open contracts, in any one contract month. Reporting level for a Mini HSI Futures is 2500 open contracts.
+
+While futures are measured per ticker per contract month, options are measured per series (call or put / maturity date / strike).
+
+The complete reporting level table can be accessed [here](https://www.hkex.com.hk/services/trading/derivatives/overview/trading-mechanism/large-open-positions-and-position-limits?sc_lang=en)
+
+
+
+
+### Position Limit
+
+And at all times (both intra day and inter day), a person cannot hold or control a position or a position delta beyond the limit set by the SFC. The complete position limit list can be found on the above website.
+
+Products that have the same underlying (e.g. HSI futures, HSI options, mini HSI futures, mini HSI options, etc), are subject to a single position delta limit. This means that the aggregate position across these products is measured together and must adhere to the same limit.
+
+For products where the underlying only has one type of contract, the position limit is determined by the total number of contracts across all maturities. In such cases, the limit is not based on the delta of the positions, but rather on the absolute number of contracts held.
+
+
+
+
+
+<!-- ## LOPR - Who need to report -->
+
+
+
+
+## LOPR - Report Timing
+
+If the holdings exceed the reporting level, the LOP needs to be reported by 12noon of the next business day. Whether the position changes or not on the succeeding day, it needs to be reported to the Exchange as long as it continues to exceed the reporting level.
+
+
+## LOPR - Gross or Net
+
+LOP should be measured and reported in terms of open contracts on a gross basis. Let's say if a fund manager is managing two funds. If the two funds both have an HSI futures position of opposite directions, the fund manager cannot net them off when measuring the size of the aggregate position, but need to take their sizes as absolute values and lump them together. 
+
+
+<!-- ## LOPR - Report Format -->
+
+<!-- ## LOPR - TO Code -->

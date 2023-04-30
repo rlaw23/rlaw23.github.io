@@ -1,12 +1,12 @@
 ---
 layout: page
-title: LIBOR, SOFR and the Like
+title: SOFR and Other ARR
 grand_parent: Finance
 parent: Products and Practices
 nav_order: 105
 ---
 
-# LIBOR, SOFR and the Like
+# SOFR and Other ARR
 {: .no_toc }
 
 ## Table of contents
@@ -72,7 +72,7 @@ As 26 Mar 2023 is a Sunday, we will apply the rate of 24 Mar 2023 to this day. B
 
 ![image](/assets/images/sofr_30_example.jpg)
 
-You will see it is in line with the screenshot in the upper part of this page.
+The result is ~0.0482369 = 4.82369%, which is in line with the screenshot in the upper part of this page.
 
 ------
 
