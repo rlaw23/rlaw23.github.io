@@ -31,9 +31,29 @@ CDS start dates are always 20 Mar, Jun, Sep, and Dec. In a rare case in 2022, wh
 
 <br />
 
+### Recovery Rate
+
+This affects the CDS payoff in case of a default.
+
+CDS Payoff = Notional x (1 - Recovery Rate)
+
+<br />
+
 ### Trade confirmation
 
 Apart from confirming on paper, CDS trades can also be validated on TradeSERV (part of Markit), previously on DSMatch.
+
+<br />
+
+### Upfront Payment and Quarterly Payment
+
+Upfront payment is the amount the counterparties of the CDS settle at the start of the CDS. 
+
+The CDS buyer also pays a fixed annual rate of notional, e.g. 1%, as premium to the seller each quarter.
+
+<br />
+
+CDS usually matures on the 20th of Mar / Jun / Sep / Dec.
 
 <br />
 

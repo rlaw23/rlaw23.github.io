@@ -25,7 +25,7 @@ Equity futures, bond futures, commodity futures
 
 ## BBG Ticker Convention
 
-BBG futures ticker consist of 4 characters, for example, "XPM3" would indicate the Australia SPI 200 index futures expiring in Jun 2023. XP doesn't change and means "Australia SPI 200". "M" refers to the month June and "3" is the year 2023. 
+BBG futures ticker consist of usually 4 characters, for example, "XPM3" would indicate the Australia SPI 200 index futures expiring in Jun 2023. XP doesn't change and means "Australia SPI 200". "M" refers to the month June and "3" is the year 2023. 
 
 Similarly "HIJ3" would indicate the HSI futures April 2023.
 
@@ -36,15 +36,20 @@ Common tickers:
 |HI|Hang Seng Index|
 |HU|Mini Hang Seng Index|
 |NK|Nikkei 225|
-|NO|Mini Nikkei 225|
-
-<!-- |XP| |
-|VG| |
-|FV| |
-|TY| |
-|TH| |
-|RTY| | -->
-
+|NO|Nikkei 225 Mini|
+|ES|S&P 500 Mini|
+|XP|SPI 200 |
+|VG|Euro Stoxx 50 |
+|TU|US Treasury Note 2-Year |
+|FV|US Treasury Note 5-Year|
+|TY|US Treasury Note 10-Year|
+|RTY|E-mini Russell 2000 Index |
+|US|US Long Bond|
+|BP|British Pound|
+|CD|Canadian Dollar|
+|EC|EURO FX|
+|JY|Japanese Yen|
+|FA|S&P MidCap 400|
 
 
 Month codes:
@@ -73,7 +78,14 @@ Due to cost or other considerations, some investment managers may want to use on
 
 Each day, after the executing broker executes a trade of the client, they will need to offer the trades to the clearing broker before the timeline set by each futures exchange, usually some time after the market close.
 
-Executing brokers should not sit on the positions themselves, in particular when it is a long deliverable position and after the first notice date. Otherwise the executing broker may risk physical delivery.
+
+### Timeline
+
+Executing brokers should offer the trades to the clearing broker on top day (i.e. trade date) and should not sit on the positions themselves, in particular when it is a long deliverable position and after the first notice date. Otherwise the executing broker may risk physical delivery.
+
+Exchanges may have their own give-up / take-up window. E.g. in Hong Kong, such window is T+1. If the brokers miss to complete the give-up then it will need to be completed via a position transfer and may involve a cash adjustment between the brokers.
+
+### Booking Price
 
 While it is easy for both brokers to give in and accept the give-ups at filled prices (i.e. the actual prices that each lot gets filled), some investment managers require averaged price give-ups to be booked on statements. 
 

@@ -6,26 +6,21 @@ layout: home
 ---
 # Welcome
 
-This website serves as my online portfolio and also as my personal site. 
+Welcome to my online portfolio and personal website. Here, you can explore my professional background and learn more about me.
 
-You will find the description of my work experience and expertise on [my portfolio page](/my_portfolio/).
+Visit [my portfolio page](/my_portfolio/) to discover my skills and experience in detail. Additionally, you can browse through my notes on topics such as the financial industry, automation, and machine learning. My aim is to share my knowledge on these subjects while showcasing my financial expertise, coding capabilities, and project experiences.
 
-I also write on the financial industry, automation and computers. I hope to share my knowledge with the web and also demonstrate my understanding of the financial sector and also my coding capabilities and project experiences.
-
-This site is hosted on Github Pages based on the Just the Docs theme.
-
-Here is my [Linkedin](https://hk.linkedin.com/in/rowan-l-67908654?trk=public_profile_browsemap_profile-result-card_result-card_full-click).
+Here is my [Linkedin](https://hk.linkedin.com/in/rowan-l-67908654?trk=public_profile_browsemap_profile-result-card_result-card_full-click). You can reach out to me there.
 
 
 
-[Finance Documentaton](/finance_documentation/)
+[Finance](/finance/)
 
-[Machine Learning](/machine_learning/)
+[Machine Learning and AI](/machine_learning_ai/)
 
 [Excel VBA Automation](/excel_vba_automation/)
 
 [Algo Trading](/algo_trading/)
 
-[Prompt Engineering](/prompt_engineering/)
 
-[Miscellaneous](/miscellaneous)
+This site is hosted on Github Pages based on the Just the Docs theme.
