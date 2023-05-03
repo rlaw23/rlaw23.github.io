@@ -9,4 +9,7 @@ parent: Machine Learning and AI
 
 # Image Generation
 
-Stable diffusion and MidJourney
+Stable Diffusion 
+
+
+![image](/assets/images/draw_things/IMG_2674.PNG)

@@ -12,11 +12,11 @@ has_children: False
 
 ## Profile
 
-I have worked in several investment banks and asset manager in different roles (FO business management, MO trade support, regulatory reporting, and project management). 
+I have had the opportunity to work in various investment banks and asset management firms, where I have held different positions such as FO business management, MO trade support, regulatory reporting, and project management.
 
-Here you can find further description of my work experience and my technical capabilities.
+You can find a more detailed description of my work experience and technical capabilities on this website.
 
-Beside years of experience in the financial sector, I am also passionate about emerging technologies and a competent programmer.
+In addition to my years of experience in the financial sector, I have a strong interest in emerging technologies and possess proficient programming skills.
 
 ---
 

@@ -6,7 +6,7 @@ layout: home
 ---
 # Welcome
 
-Welcome to my online portfolio and personal website. Here, you can explore my professional background and learn more about me.
+Greetings. Welcome to my online portfolio and personal website. Here, you can explore my professional background and learn more about me.
 
 Visit [my portfolio page](/my_portfolio/) to discover my skills and experience in detail. Additionally, you can browse through my notes on topics such as the financial industry, automation, and machine learning. My aim is to share my knowledge on these subjects while showcasing my financial expertise, coding capabilities, and project experiences.
 
@@ -22,5 +22,6 @@ Here is my [Linkedin](https://hk.linkedin.com/in/rowan-l-67908654?trk=public_pro
 
 [Algo Trading](/algo_trading/)
 
+<br />
 
 This site is hosted on Github Pages based on the Just the Docs theme.
