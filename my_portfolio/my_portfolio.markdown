@@ -16,20 +16,13 @@ I have worked in several investment banks and asset manager in different roles (
 
 Here you can find further description of my work experience and my technical capabilities.
 
-I am passionate about emerging technologies and a competent programmer.
+Beside years of experience in the financial sector, I am also passionate about emerging technologies and a competent programmer.
 
 ---
 
 ## Job Highlights
 
-1. Global Markets front office - Business management
-2. Structured products and derivatives desks - Middle office
-3. Project management
-    - new market setup, system upgrades, regulatory requirement changes
-    - business analysis
-    - stakeholder management
-4. Hands-on developing automation
-5. Regulatory reporting (HKTR & MAS)
+Please refer to my CV. Will further elaborate in interviews.
 
 ---
 
@@ -40,6 +33,7 @@ These are the products / desks that I have supported.
 Derivatives:
 - swaps (CCS, IRS, TRS, basis swaps)
 - FX (spot, forward, swap, deliverable, NDF)
+- futures and options
 - OTC options
 - bond forward
 - CDS
@@ -55,7 +49,6 @@ Structured products:
 - instruments with knock-outs
 - ELI (euqity linked instrument)
 - digital options
-- etc
 
 ---
 
@@ -75,13 +68,14 @@ Structured products:
 ### Computers
 
 - VBA
-- Python
+- Python (pandas, scikit learn)
 - SQL
-- Power Automate
 - Tableau / PowerBI
 - Machine learning
 - QuantConnect
 - Web development
 - WordPress
+- Linux / Ubuntu
+- Power Automate
 - MERN stack (MongoDB, ExpressJS, ReactJS, NodeJS)
 - Mobile app development (React Native)
