@@ -26,6 +26,15 @@ For example, a 20-year USD IRS, where Party A paying a fixed rate of 4% to Party
 
 <br />
 
+## Mandatory Clearing
+
+Cleared swaps mean that after an FI and a broker trades a swap, that swap is immediately given up to a clearing broker (e.g. MS, HSBC) that faces a central counterparty (e.g. CME, LCH SwapClear). All subsequent VM and activities will be done with the clearing broker.
+
+Depending on jurisdictions, certain types of swaps have mandatory clearing obligations, e.g. USD, EUR, JPY, GBP & HKD basis swaps & fixed-to-floating IRS.
+
+
+<br />
+
 
 ## Overnight Index Swaps
 

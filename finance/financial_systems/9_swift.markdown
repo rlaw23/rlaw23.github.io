@@ -10,6 +10,10 @@ nav_order: 9
 
 <br />
 
+_Note: There is a SWIFT ISO20022 migration that sees MT messages to be replaced with MX messages. MT messages are expected to retire in 2025. I will write on this later. For now, the below focuses on MT messages which are still the mainstream._
+
+<br />
+
 When people in finance operations say SWIFT, they are most likely referring to the SWIFT messaging network.
 
 If you are a financial institution and you need to pay your counterparty for a trade settlement, you will send a SWIFT message to your bank to instruct them to pay your counterparty's bank.
@@ -38,7 +42,7 @@ The commonly used ones are :
 
 <br />
 
-There are many fields in a SWIFT message. Though the fields for different format are not the same, the fields usually include:
+There are many fields in an MT message. Though the fields for different format are not the same, the fields usually include:
 - message type
 - sender and receiver
 - message reference

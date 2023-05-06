@@ -12,7 +12,7 @@ has_children: False
 
 ## Profile
 
-I have had the opportunity to work in various investment banks and asset management firms, where I have held different positions such as FO business management, MO trade support, regulatory reporting, and project management.
+I have had the opportunity to work in various investment banks and asset management firms, where I have held different positions in FO business management, MO trade support, regulatory reporting, and project management.
 
 I have a strong interest in emerging technologies and in particular a strong passion in machine learning and artificial intelligence. I am proficient in programming, data processing and number crunching.
 
