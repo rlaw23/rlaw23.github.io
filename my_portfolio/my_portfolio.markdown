@@ -14,9 +14,10 @@ has_children: False
 
 I have had the opportunity to work in various investment banks and asset management firms, where I have held different positions such as FO business management, MO trade support, regulatory reporting, and project management.
 
+I have a strong interest in emerging technologies and in particular a strong passion in machine learning and artificial intelligence. I am proficient in programming, data processing and number crunching.
+
 You can find a more detailed description of my work experience and technical capabilities on this website.
 
-In addition to my years of experience in the financial sector, I have a strong interest in emerging technologies and possess proficient programming skills.
 
 ---
 
@@ -68,7 +69,7 @@ Structured products:
 ### Computers
 
 - VBA
-- Python (pandas, scikit learn)
+- Python (pandas, scikit learn, matplotlib)
 - SQL
 - Tableau / PowerBI
 - Machine learning
