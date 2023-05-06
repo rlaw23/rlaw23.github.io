@@ -9,7 +9,6 @@ parent: Machine Learning and AI
 
 # Image Generation
 
-Stable Diffusion 
-
+An image generated with a photo I took outside where I live by Stable Diffusion. Click through the directory underneath the image to see my other Stable Diffusion experiments.
 
 ![image](/assets/images/draw_things/IMG_2674.PNG)
