@@ -6,7 +6,7 @@ grand_parent: Machine Learning and AI
 nav_order: 2
 ---
 
-## Slide Making with ChatGPT
+# Slide Making with ChatGPT
 
 <br />
 
